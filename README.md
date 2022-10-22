@@ -27,10 +27,12 @@ vim ~/.vimrc
 2. А затем вставляем это - `:PlugInstall` ждём окончания установки
 <br/>
 
-###Да вот собственно и закончили🤷🏻‍♂️
+### Да вот собственно и закончили🤷🏻‍♂️
 
 ## Result
-<img src="https://github.com/Mark1708/my-vim-setup/raw/main/demo.png" width="300"> 
+<img src="https://github.com/Mark1708/my-vim-setup/raw/main/demo.png" width="700"> 
+
+### Что да как?
 * Для включение режима вставки нажмите <F2>
 * Для того чтобы открывать и закрывать меню нажмите <F3>
 > Ну а вообще интереса ради загляните в `.vimrc` и почитайте комментарии
@@ -45,5 +47,5 @@ Project is: _finished_
 Created by [Gurianov Mark](https://mark1708.github.io/) - feel free to contact me!
 #### +7(962)024-50-04 | mark1708.work@gmail.com | [github](http://github.com/Mark1708)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=beautify-old-photo&theme=chartreuse-dark&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=my-vim-setup&theme=chartreuse-dark&show_icons=true)
 
